@@ -1,0 +1,16 @@
+{
+  "pluginName": "Laravel 文档",
+  "description": "Laravel 最新中文文档",
+  "author": "Laravel China",
+  "homepage": "http://laravel-china.org",
+  "preload": "preload.js",
+  "logo": "laravel.png",
+  "version": "1.0.0",
+  "features": [
+      {
+        "code": "laravel",
+        "explain": "Laravel 最新中文文档",
+        "cmds":["Laravel Manual", "Laravel 文档"]
+      }
+  ]
+}
