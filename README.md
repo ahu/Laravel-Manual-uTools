@@ -10,9 +10,9 @@
 
 # 发行说明
 
-- 语义化版本
-- 支持策略
-- Laravel 6.0
+- [语义化版本](#versioning-scheme)
+- [支持策略](#support-policy)
+- [Laravel 6.0](#laravel-6.0)
 
 <a name="versioning-scheme"></a>
 ## 语义化版本
